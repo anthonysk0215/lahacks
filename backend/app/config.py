@@ -1,0 +1,3 @@
+# We can keep this file minimal for now
+API_HOST = "0.0.0.0"
+API_PORT = 8000 
