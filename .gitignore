@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Lens Studio
+*.lsproj.user
+*.lsproj.userprefs
+*.lsproj.userprefs.old
+*.lsproj.userprefs.new
+*.lsproj.userprefs.1
+*.lsproj.userprefs.2
+*.lsproj.userprefs.3
+*.lsproj.userprefs.4
+*.lsproj.userprefs.5
+*.lsproj.userprefs.6
+*.lsproj.userprefs.7
+*.lsproj.userprefs.8
+*.lsproj.userprefs.9
+
+# Logs
+*.log
+logs/
+log/
+
+# Private keys and sensitive data
+private_keys.json
+*.key
+*.pem
+*.cert
+*.crt
+
+# Build and distribution
+dist/
+build/
+*.egg-info/ 
