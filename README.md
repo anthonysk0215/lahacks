@@ -1,4 +1,4 @@
-# AR Tour Guide with Spectacles
+# WayFinder AI: Your Automated Tour Guide
 
 An augmented reality tour guide application built for Snap Spectacles, providing real-time location-based recommendations and interactive map features. The application combines Snap's AR capabilities with Fetch.ai's autonomous agents for intelligent tour recommendations.
 
